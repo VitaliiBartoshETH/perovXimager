@@ -12,5 +12,5 @@ Detection and attenuation efficiency (DE, AE), noise equivalent dose (NED), dete
 How to install
 
 Application is made in MATLAB 2022b and converted into a standalone application for OS Windows. To install, launch perovXimager_instalation.exe. The installer will download MATLAB Runtime (you don't need any MATLAB license) and install the program. Folder "Examples", which contains TXT files with raw data, is not needed during installation. You have to download it in case you want to work with the source code, provided in perovXimager.mlapp (here actual MATLAB license is required).
-**DISCLAINER**
+**DISCLAIMER**
 Created by the installer shortcut will launch the application incorrectly, so the button "Load example" will not work for a currently unknown reason. Therefore, avoid this option and create a shortcut manually from the .exe file, installed by default in C:\Program Files\ETH Zurich-Kovalenko Group\perovXimager_converted\application or the one you have specified during installation.
