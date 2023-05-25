@@ -8,6 +8,7 @@ Detection and attenuation efficiency (DE, AE), noise equivalent dose (NED), dete
 2) Plots saving (by click)
 3) Units can be specified near the load button for every input data.
 4) Example raw data is provided. All necessary files can be loaded by clicking on the button "Load example".
+5) Color of plots can be changed.
 
 How to install
 
